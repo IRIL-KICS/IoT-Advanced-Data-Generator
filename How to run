@@ -1,0 +1,4 @@
+i. Download src folder
+ii. Open "IOT Advanced Data Generator" in QT 
+iii. Copy db2.db file in debug folder created by QT 
+iv. Run application from QT
