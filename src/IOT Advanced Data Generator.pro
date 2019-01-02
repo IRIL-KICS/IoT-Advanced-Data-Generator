@@ -208,7 +208,7 @@ DISTFILES += \
 SUBDIRS += \
     mqtt/mqtt.pro
 
-unix:!macx: LIBS += -L$$PWD/./ -ltins
+
 
 INCLUDEPATH += $$PWD/.
 DEPENDPATH += $$PWD/.
